@@ -11,7 +11,8 @@ including a color channel can make the process take alot longer
 # Accuracy and lost
 As you can see from our notebook our accuracy when On the Test Data set was 86% almost 87% If you want to round up. Now 86% percent is 
 pretty good actually but we can do a whole lot better. We would definitely increase the accuracy on the testdata set by increasing the
-number of epochs, try it yourself!
+number of epochs, try it yourself! 
+![Alt text](accuracy.png)
 # Conclusion
 The fashionMnist data set is cool and all but on the next project I'll be working with real life data because real life data is usually 
 really messy while the fashionmnist dataset is already cleaned up for you nice and ready to go. Thank you for checking out This Repository
